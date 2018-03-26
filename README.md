@@ -1,5 +1,4 @@
-# Essa apresentação tem como objetivo, mostrar como configurar ambiente php usando o framework laravel juntamente com o Docker usando 
-laradock
+# Essa apresentação tem como objetivo, mostrar como configurar ambiente php usando o framework laravel juntamente com o Docker usando laradock
 
 
 utilizei reveal.js para criação da apresentação.
