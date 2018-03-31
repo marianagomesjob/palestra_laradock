@@ -1,6 +1,6 @@
 
 <h1>LARADOCK</h1>
-configurar ambiente php usando o framework laravel juntamente com o Docker usando laradock 
+<h3>Configurando ambiente php usando o framework laravel juntamente com o Docker usando laradock </h3>
 
 
 
